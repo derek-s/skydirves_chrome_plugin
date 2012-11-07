@@ -1,0 +1,11 @@
+{
+  "name": "SkyDrive外链转换",
+  "version": "0.1",
+  "description": "转换SkyDrive外链",
+  "icons": { "16": "images/logo16.png","48": "images/logo48.png","128": "images/logo128.png" },
+  "browser_action": {
+    "default_title": "SkyDrive外链转换",
+    "default_icon": "images/icon.png" ,
+    "default_popup": "popup.html"
+  }
+}
